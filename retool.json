@@ -1,7 +1,7 @@
 [
     {
-        "domain_name": "xxxx.retool.com",
-        "x_xsrf_token": "751291ed-xxxx",
-        "accessToken": "eyJhbGcixxxx"
+        "domain_name": "aaa133.retool.com",
+        "x_xsrf_token": "60af0745-c8df-4eff-9edb-ba73456e887d",
+        "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ4c3JmVG9rZW4iOiI2MGFmMDc0NS1jOGRmLTRlZmYtOWVkYi1iYTczNDU2ZTg4N2QiLCJ2ZXJzaW9uIjoiMS4yIiwiaWF0IjoxNzY1NDUwNjM2fQ.wgsmSD0Jnfd4yD6hg3W5gxoLq-pIfeVya77vEu7AMKg"
     }
 ]
